@@ -153,3 +153,99 @@ Average Latency(s):     0.552744
 Stddev Latency(s):      0.251762
 Max latency(s):         1.65501
 Min latency(s):         0.0283374
+hints = 1
+Maintaining 16 concurrent writes of 2097152 bytes to objects of size 2097152 for up to 10 seconds or 0 objects
+Object prefix: benchmark_data_ceph-2qw9_63441
+  sec Cur ops   started  finished  avg MB/s  cur MB/s last lat(s)  avg lat(s)
+    0      16        16         0         0         0           -           0
+    1      16        26        10   19.4746        20    0.979892    0.579889
+    2      16        35        19   18.7451        18     1.94998    0.934928
+    3      16        44        28   18.4978        18     2.05251     1.18605
+    4      16        63        47   23.3393        38     1.19054     1.16915
+    5      16        78        62   24.6633        30     1.75775     1.15603
+    6      16        88        72    23.889        20    0.922667     1.14466
+    7      16       106        90   25.6117        36     1.50574     1.14376
+    8      16       121       105   26.1576        30     1.31563     1.11448
+    9      16       133       117   25.9181        24    0.129935     1.11959
+   10      16       144       128    25.527        22       1.336     1.16059
+Total time run:         10.7775
+Total writes made:      145
+Write size:             2097152
+Object size:            2097152
+Bandwidth (MB/sec):     26.9079
+Stddev Bandwidth:       7.4117
+Max bandwidth (MB/sec): 38
+Min bandwidth (MB/sec): 18
+Average IOPS:           13
+Stddev IOPS:            3
+Max IOPS:               19
+Min IOPS:               9
+Average Latency(s):     1.18652
+Stddev Latency(s):      0.472814
+Max latency(s):         2.61319
+Min latency(s):         0.0867374
+hints = 1
+Maintaining 16 concurrent writes of 4194304 bytes to objects of size 4194304 for up to 10 seconds or 0 objects
+Object prefix: benchmark_data_ceph-2qw9_63585
+  sec Cur ops   started  finished  avg MB/s  cur MB/s last lat(s)  avg lat(s)
+    0      16        16         0         0         0           -           0
+    1      16        20         4   15.5158        16    0.964388    0.884202
+    2      16        26        10   19.6904        24    0.579449    0.944265
+    3      16        30        14   18.4722        16     2.85032     1.27888
+    4      16        36        20   19.8425        24     3.97582     1.96816
+    5      16        39        23   18.2833        12     1.79963     2.10247
+    6      16        50        34   22.5459        44     1.95561      2.3403
+    7      16        57        41   23.3207        28     1.56205     2.29222
+    8      16        64        48   23.9022        28     2.70382     2.29602
+    9      16        71        55   24.3555        28     2.64319     2.28937
+   10      16        79        63   25.1169        32     2.00821     2.27041
+   11      16        80        64   23.2025         4     2.08757     2.26755
+Total time run:         11.3123
+Total writes made:      80
+Write size:             4194304
+Object size:            4194304
+Bandwidth (MB/sec):     28.2878
+Stddev Bandwidth:       10.8544
+Max bandwidth (MB/sec): 44
+Min bandwidth (MB/sec): 4
+Average IOPS:           7
+Stddev IOPS:            2
+Max IOPS:               11
+Min IOPS:               1
+Average Latency(s):     2.25881
+Stddev Latency(s):      0.853612
+Max latency(s):         4.12936
+Min latency(s):         0.579449
+hints = 1
+Maintaining 16 concurrent writes of 16777216 bytes to objects of size 16777216 for up to 10 seconds or 0 objects
+Object prefix: benchmark_data_ceph-2qw9_63688
+  sec Cur ops   started  finished  avg MB/s  cur MB/s last lat(s)  avg lat(s)
+    0       6         6         0         0         0           -           0
+    1       6         6         0         0         0           -           0
+    2       6         6         0         0         0           -           0
+    3       7         7         0         0         0           -           0
+    4       8         8         0         0         0           -           0
+    5      11        11         0         0         0           -           0
+    6      14        14         0         0         0           -           0
+    7      14        14         0         0         0           -           0
+    8      15        17         2   3.98055         4     7.80957     7.44828
+    9      15        19         4   7.08024        32      8.7574     8.06147
+   10      15        20         5    7.9686        16     9.86969     8.42312
+   11       4        21        17   24.6384       192     3.95047     6.88372
+   12       1        21        20   26.5784        48     3.22886     6.33153
+Total time run:         12.435
+Total writes made:      21
+Write size:             16777216
+Object size:            16777216
+Bandwidth (MB/sec):     27.0205
+Stddev Bandwidth:       55.0691
+Max bandwidth (MB/sec): 192
+Min bandwidth (MB/sec): 0
+Average IOPS:           1
+Stddev IOPS:            3
+Max IOPS:               12
+Min IOPS:               0
+Average Latency(s):     6.15153
+Stddev Latency(s):      2.44164
+Max latency(s):         10.2233
+Min latency(s):         2.55152
