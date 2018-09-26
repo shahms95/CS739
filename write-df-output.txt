@@ -1,0 +1,171 @@
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.39 0.96 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.7 GiB 8.3 GiB 17.44 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.87 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.3 GiB 16.47 0.97 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 6.8 GiB  33 GiB 17.04          
+MIN/MAX VAR: 0.96/1.05  STDDEV: 0.63
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.39 0.96 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.7 GiB 8.3 GiB 17.44 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.87 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.3 GiB 16.47 0.97 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 6.8 GiB  33 GiB 17.04          
+MIN/MAX VAR: 0.96/1.05  STDDEV: 0.63
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.44 0.96 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.7 GiB 8.3 GiB 17.44 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.87 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.3 GiB 16.47 0.97 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 6.8 GiB  33 GiB 17.06          
+MIN/MAX VAR: 0.96/1.05  STDDEV: 0.62
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.44 0.96 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.7 GiB 8.3 GiB 17.44 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.87 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.3 GiB 16.47 0.97 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 6.8 GiB  33 GiB 17.06          
+MIN/MAX VAR: 0.96/1.05  STDDEV: 0.62
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.44 0.96 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.7 GiB 8.3 GiB 17.44 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.87 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.3 GiB 16.47 0.97 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 6.8 GiB  33 GiB 17.06          
+MIN/MAX VAR: 0.96/1.05  STDDEV: 0.62
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.44 0.94 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.82 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.74 1.07 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.7 GiB 8.3 GiB 17.23 0.98 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.0 GiB  33 GiB 17.56          
+MIN/MAX VAR: 0.94/1.07  STDDEV: 0.84
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.44 0.94 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.82 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.74 1.07 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.7 GiB 8.3 GiB 17.23 0.98 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.0 GiB  33 GiB 17.56          
+MIN/MAX VAR: 0.94/1.07  STDDEV: 0.84
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.44 0.94 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.82 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.74 1.07 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.7 GiB 8.3 GiB 17.23 0.98 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.0 GiB  33 GiB 17.56          
+MIN/MAX VAR: 0.94/1.07  STDDEV: 0.84
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.44 0.92 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.82 1.00 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.74 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 18.27 1.03 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.1 GiB  33 GiB 17.82          
+MIN/MAX VAR: 0.92/1.05  STDDEV: 0.86
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.6 GiB 8.4 GiB 16.44 0.92 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.82 1.00 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.74 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 18.27 1.03 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.1 GiB  33 GiB 17.82          
+MIN/MAX VAR: 0.92/1.05  STDDEV: 0.86
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.71 0.96 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 19.12 1.04 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.74 1.02 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 18.27 0.99 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.4 GiB  33 GiB 18.46          
+MIN/MAX VAR: 0.96/1.04  STDDEV: 0.53
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.71 0.96 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 19.12 1.04 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.74 1.02 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 18.27 0.99 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.4 GiB  33 GiB 18.46          
+MIN/MAX VAR: 0.96/1.04  STDDEV: 0.53
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.71 0.96 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 19.12 1.04 181 
+ 4   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.74 1.02 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 18.27 0.99 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.4 GiB  33 GiB 18.46          
+MIN/MAX VAR: 0.96/1.04  STDDEV: 0.53
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.71 0.93 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 19.32 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 2.0 GiB 8.0 GiB 20.22 1.06 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.72 0.99 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.6 GiB  32 GiB 18.99          
+MIN/MAX VAR: 0.93/1.06  STDDEV: 0.91
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.8 GiB 8.2 GiB 17.71 0.93 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 19.32 1.02 181 
+ 4   hdd 0.00980  1.00000 10 GiB 2.0 GiB 8.0 GiB 20.22 1.06 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.72 0.99 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.6 GiB  32 GiB 18.99          
+MIN/MAX VAR: 0.93/1.06  STDDEV: 0.91
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.55 0.97 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 19.32 1.01 181 
+ 4   hdd 0.00980  1.00000 10 GiB 2.0 GiB 8.0 GiB 20.22 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.72 0.97 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.7 GiB  32 GiB 19.20          
+MIN/MAX VAR: 0.97/1.05  STDDEV: 0.65
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.55 0.97 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 19.32 1.01 181 
+ 4   hdd 0.00980  1.00000 10 GiB 2.0 GiB 8.0 GiB 20.22 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.72 0.97 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.7 GiB  32 GiB 19.20          
+MIN/MAX VAR: 0.97/1.05  STDDEV: 0.65
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.55 0.97 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 19.32 1.01 181 
+ 4   hdd 0.00980  1.00000 10 GiB 2.0 GiB 8.0 GiB 20.22 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.72 0.97 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.7 GiB  32 GiB 19.20          
+MIN/MAX VAR: 0.97/1.05  STDDEV: 0.65
+ID CLASS WEIGHT  REWEIGHT SIZE   USE     AVAIL   %USE  VAR  PGS 
+ 2   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.55 0.97 172 
+ 3   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 19.32 1.01 181 
+ 4   hdd 0.00980  1.00000 10 GiB 2.0 GiB 8.0 GiB 20.22 1.05 192 
+ 5   hdd 0.00980  1.00000 10 GiB 1.9 GiB 8.1 GiB 18.72 0.97 205 
+ 0             0        0    0 B     0 B     0 B     0    0   0 
+ 1             0        0    0 B     0 B     0 B     0    0   0 
+                    TOTAL 40 GiB 7.7 GiB  32 GiB 19.20          
+MIN/MAX VAR: 0.97/1.05  STDDEV: 0.65
